@@ -4,4 +4,5 @@
 
 ## Ссылки  
 [Github с проектом](https://github.com/coherity/swipe)
+
 [Демонстрация работы проекта на YouTube](https://youtu.be/bFz7Qjo4zDY)
