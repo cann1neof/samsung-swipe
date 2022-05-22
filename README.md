@@ -14,4 +14,4 @@ SWIPE! - это агрегатор новостей с интуитивно по
 ## Ссылки  
 [Github с проектом](https://github.com/coherity/swipe)
 
-[Демонстрация работы проекта на YouTube](https://youtu.be/bFz7Qjo4zDY)
+[Демонстрация работы проекта на YouTube](https://youtu.be/fl1TJRb9eBU)
